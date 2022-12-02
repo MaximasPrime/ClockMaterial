@@ -5,6 +5,8 @@
 Procedurally Generated Clock Material
 - No textures used
 - No blueprint functions used
+- Digital and Analogue clocks
+- Material Function to display a digit
 
 
 ### License
